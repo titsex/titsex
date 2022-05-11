@@ -6,7 +6,7 @@
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
 - 👨‍🎓 Wants to learn: `C#`
-- ⌨️ Known Technologies: `Node.js`, `React.js`, `Next.js`, `Git`
+- ⌨️ Known Technologies: `Node.js`, `React.js`, `Next.js`, `Git`, `Nest.js`, `Express.js`
 - ⚡️ In real life I am interested in **anime**
 
 <p align="center">
