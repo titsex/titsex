@@ -5,6 +5,13 @@
 - ⌨️ Known Technologies: `Node.js`, `React`, `Next.js`, `Git`, `Nest.js`, `Express.js`, `Bootstrap 5`, `TypeORM`, `GraphQL`, `TypeScript`
 - ⚡️ In real life I am interested in **anime**, **league of legends**
 
+<br>
+
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/titsex)
+[![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](https://vk.com/titsex)
+[![VK](https://img.shields.io/badge/вконтакте-black?&style=for-the-badge&logo=vk)](https://discordapp.com/users/497029288822833163)
+
+<br>
 
 <p align="center">
   <img src="https://wakatime.com/share/@0d1080f1-b92f-41c1-b720-948d701956d8/ae95afbc-29fa-4569-9497-68433dc94f1d.svg" height="250">
@@ -13,7 +20,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titsex&hide_border=true&theme=darcula&bg_color=00000000&langs_count=3&hide=jupyter%20notebook,tex,css,php,shell"
 </p>
-
+  
+<p align="center">
+  <img src="https://www.codewars.com/users/titsex/badges/large">
+</p>
+ 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=titsex&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
@@ -24,4 +35,8 @@
 
 <p align="center">
   <a target="_blank" href="https://www.buymeacoffee.com/titsex"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="titsex" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=titsex">
 </p>
