@@ -13,13 +13,10 @@
 
 <br>
 
-<p align="center">
+<div align="center">
   <img src="https://wakatime.com/share/@0d1080f1-b92f-41c1-b720-948d701956d8/ae95afbc-29fa-4569-9497-68433dc94f1d.svg" height="250">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titsex&hide_border=true&theme=darcula&bg_color=00000000&langs_count=3&hide=jupyter%20notebook,tex,css,php,shell"
-</p>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titsex&hide_border=true&theme=darcula&bg_color=00000000&langs_count=3&hide=jupyter%20notebook,tex,css,php,shell"
+</div>
  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=titsex&theme=darcula&hide_border=true&background=FFFFFF00">
