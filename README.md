@@ -20,10 +20,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titsex&hide_border=true&theme=darcula&bg_color=00000000&langs_count=3&hide=jupyter%20notebook,tex,css,php,shell"
 </p>
-  
-<p align="center">
-  <img src="https://www.codewars.com/users/titsex/badges/large">
-</p>
  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=titsex&theme=darcula&hide_border=true&background=FFFFFF00">
