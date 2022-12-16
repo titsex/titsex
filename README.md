@@ -8,8 +8,8 @@
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/titsex)
-[![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](https://vk.com/titsex)
-[![VK](https://img.shields.io/badge/вконтакте-black?&style=for-the-badge&logo=vk)](https://discordapp.com/users/497029288822833163)
+[![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/497029288822833163)
+[![Вконтакте](https://img.shields.io/badge/вконтакте-black?&style=for-the-badge&logo=vk)](https://vk.com/titsex)
 
 <br>
 
