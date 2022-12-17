@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=FF813F&center=true&width=570&lines=Hi+there%2C+I'm+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
-- 👨‍🎓 Wants to learn: `C#`
+- 👨‍🎓 Wants to learn: `C#`, `Java`
 - ⌨️ Known Technologies: `Node.js`, `React`, `Next.js`, `Git`, `Nest.js`, `Express.js`, `Bootstrap 5`, `TypeORM`, `GraphQL`, `TypeScript`
 - ⚡️ In real life I am interested in **anime**, **league of legends**
 
