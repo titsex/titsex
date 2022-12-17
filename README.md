@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=FF813F&center=true&width=570&lines=Hi+there%2C+I'm+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=FF813F&center=true&width=570&lines=Hi+there%2C+I'm+a+Full+Stack+Web+Developer">
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
 - 👨‍🎓 Wants to learn: `C#`, `Java`
