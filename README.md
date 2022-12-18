@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@0d1080f1-b92f-41c1-b720-948d701956d8/78acf8e3-3ff8-4865-9057-5d1faa26ac27.svg" height="700">
+  <img src="https://wakatime.com/share/@0d1080f1-b92f-41c1-b720-948d701956d8/78acf8e3-3ff8-4865-9057-5d1faa26ac27.svg" width="1000">
 </p>
 
 <div align="center">
