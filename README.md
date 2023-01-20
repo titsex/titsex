@@ -26,8 +26,8 @@
 </p>
 
 <div align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titsex&hide_border=true&theme=darcula&bg_color=00000000&langs_count=2&hide=jupyter%20notebook,tex,css,php,shell">
-   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=titsex&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img align="top" src="https://github-readme-stats-titsex.vercel.app/api/top-langs/?username=titsex&hide_border=true&theme=darcula&bg_color=00000000&langs_count=2&hide=jupyter%20notebook,tex,css,php,shell">
+   <img height="50%" width="auto" src ="https://github-readme-stats-titsex.vercel.app/api?username=titsex&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
 </div>
  
 <p align="center">
