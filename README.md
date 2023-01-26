@@ -2,7 +2,7 @@
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
 - 👨‍🎓 Wants to learn: `C#`, `Java`
-- ⌨️ Known Technologies: `Node.js`, `React`, `Next.js`, `Nest.js`, `Express.js`, `TypeORM`, `GraphQL`, `TypeScript`
+- ⌨️ Known Technologies: `Node.js`, `React`, `Next.js`, `Nest.js`, `Express.js`, `TypeORM`, `GraphQL`, `TypeScript`, `Astro`
 - ⚡️ In real life I am interested in **anime**, **league of legends**
 
 <br>
