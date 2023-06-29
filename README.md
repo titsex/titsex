@@ -14,9 +14,6 @@
   <a target="_blank" href="https://discordapp.com/users/497029288822833163">
     <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a target="_blank" href="https://vk.com/titsex">
-    <img src="https://img.shields.io/badge/вконтакте-black?&style=for-the-badge&logo=vk">
-  </a>
 </div>
 
 <br>
