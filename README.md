@@ -9,10 +9,11 @@
 
 <div align=center>
   <a target="_blank" href="https://t.me/titsex">
-    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white&color=%2300FF0000&link=https%3A%2F%2Ft.me%2Ftitsex">
   </a>
+  
   <a target="_blank" href="https://discordapp.com/users/497029288822833163">
-    <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white&color=%2300FF0000&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F497029288822833163">
   </a>
 </div>
 
