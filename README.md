@@ -28,11 +28,13 @@
 </div>
  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=titsex&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src="https://github-readme-streak-stats-rho-three.vercel.app?user=titsex&theme=dark&hide_border=true&border_radius=0&background=EB545400" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://www.buymeacoffee.com/titsex"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="titsex" /></a>
+  <a target="_blank" href="https://www.buymeacoffee.com/titsex">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="titsex" />
+  </a>
 </p>
 
 <p align="center">
